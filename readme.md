@@ -1,5 +1,6 @@
 #project Activites
-*gather adn analyze requirements
-*design
-*implement
-*test
+*Gather and analyze requirements
+*Design
+*Implement
+*Verify and Validate
+*Maintain
